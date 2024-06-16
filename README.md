@@ -71,3 +71,5 @@
 <img src="https://cdn.discordapp.com/attachments/1248315613445755016/1249027774107095101/image.png?ex=6665cf43&is=66647dc3&hm=c9e771a911b454e51e53258eaa8e197825724ef6c373b30acf7884e7f2963150&" width="100%" height="100%">
 
 ##### Todos os Creditos redirecionados para o Rocketseat ©
+
+###### Este Programa esta em "BETA"! Em Breve terão mais atualizações, teremos uma Extensão propria!
